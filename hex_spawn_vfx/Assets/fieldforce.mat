@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: fieldforce
+  m_Shader: {fileID: -6465566751694194690, guid: b62842a4cb862724089d57718554d72b,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_146AB53B:
+        m_Texture: {fileID: 2800000, guid: bb89fbdf248f1b8409db157ae6faa098, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_89C9EED7: 0.008
+    - Vector1_96B9D64: 5
+    - Vector1_BEA1C623: 100000000
+    - Vector1_E5DDC585: 2.69
+    m_Colors:
+    - Color_D61E6400: {r: 0, g: 9.869692, b: 6.851896, a: 0}
